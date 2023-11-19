@@ -1,0 +1,3 @@
+[submodule "SkyWhisperUE5Project/Content/PremiumContent"]
+	path = SkyWhisperUE5Project/Content/PremiumContent
+	url = git@github.com:star-3gg/sky-whisper-premium-content.git
