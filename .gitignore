@@ -74,4 +74,10 @@ SkyWhisperUE5Project/Plugins/*/Intermediate/*
 SkyWhisperUE5Project/DerivedDataCache/*
 
 # Premium content
-SkyWhisperUE5Project/Content/PremiumContent
+SkyWhisperUE5Project/Content/PremiumContent/*
+
+# External content
+SkyWhisperUE5Project/Content/Assets/External/*
+
+# Starter content
+SkyWhisperUE5Project/Content/StarterContent/*
