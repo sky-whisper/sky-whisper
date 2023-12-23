@@ -1,5 +1,7 @@
 # Sky Whisper
 
+See our projects goals and open tasks: [Tasks & Roadmap Quicklink](https://github.com/users/star-3gg/projects/2)
+
 Welcome to the official repository of **Sky Whisper**, a 2D cartoon-style game developed using Unreal Engine 5. In this game, players embark on a whimsical adventure through a world focused on sustainability and ecosystems, playing as an agile bat character.
 
 # Getting Started
