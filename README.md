@@ -6,6 +6,11 @@ Welcome to the official repository of **Sky Whisper**, a 2D cartoon-style game d
 
 # Getting Started
 
+First, have a look at the Project Mindmap:
+
+![image](https://github.com/star-3gg/sky-whisper/assets/147496446/ee84d6b3-1643-410d-93f0-9524189776e2)
+
+
 ## For Players
 
 [Public release builds comming soon...]
