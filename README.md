@@ -16,11 +16,11 @@ First, have a look at the Project Mindmap:
 
 ![image](https://github.com/star-3gg/sky-whisper/assets/147496446/ee84d6b3-1643-410d-93f0-9524189776e2)
 
-
+<!--
 ## For Players
 
 [Public release builds comming soon...]
-
+-->
 ## For Developers
 
 ### Prerequisites
@@ -44,17 +44,16 @@ Contributions to **Sky Whisper** are welcome! Whether it's bug reports, feature 
 
 ## Game Features
 
-- **Engaging 2D Gameplay**: Experience the life of a bat with dynamic flight mechanics and an engaging storyline.
-- **Environmental Themes**: Learn about sustainability and ecosystem balance through interactive gameplay.
-- **Rich Cartoon-Style Graphics**: Immerse yourself in a beautifully crafted 2D world.
+- **Engaging 2.5D Gameplay**: Experience the life of a bat with dynamic flight mechanics and an engaging storyline.
+- **Nature Themed Learning Experience**: Learn more about nature and ecosystem balance through interactive gameplay.
+- **Rich Cartoon-Style Graphics**: Immerse yourself in a beautifully crafted 2.5D world.
 
 ## Build and Run
 
 To build and run **Sky Whisper**:
 
 1. Open the project in Unreal Engine 5.
-2. Navigate to **File > Build Project**.
-3. Once the build is complete, click on **Play** to run the game within the Unreal Engine editor.
+2. Click on **Play** to run the game within the Unreal Engine editor.
 
 ## License
 
@@ -63,4 +62,4 @@ This project is open-source and available under the [LICENSE](LICENSE) file in t
 ## Acknowledgments
 
 - A special thanks to all contributors and supporters of the **Sky Whisper** project.
-- Assets and premium content for this project are available in a separate private repository: [`/sky-whisper-premium-assets`](https://github.com/star-3gg/sky-whisper-premium-assets).
+- Assets and premium content for this project are available in a separate private repository (only for premium members): [`/sky-whisper-premium-assets`](https://github.com/star-3gg/sky-whisper-premium-assets).
