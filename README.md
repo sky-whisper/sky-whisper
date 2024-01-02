@@ -1,6 +1,6 @@
 # Sky Whisper
 
-See our projects goals and open tasks: [Tasks & Roadmap Quicklink](https://github.com/users/star-3gg/projects/2)
+See our projects goals and open tasks: [Tasks & Roadmap Quicklink](https://github.com/orgs/sky-whisper/projects/1)
 
 ![Logo](https://github.com/star-3gg/sky-whisper/assets/147496446/f937aad1-c534-4b87-a231-f2beade55cf2)
 
